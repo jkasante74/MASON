@@ -1,0 +1,5 @@
+Read me for RabbitGrassABM
+To run this simulation
+1. Import the RabbitGrassABM project
+2. Add the MASON folder to your Build Path
+3. Right-click the RabbitGrassABM project and run as “Java Application”.
